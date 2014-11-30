@@ -25,7 +25,7 @@ class HelloController extends Controller
      */
     public function actionIndex($message = 'hello world')
     {
-        echo 'Hello world1';
+        echo 'Hello world1dsada';
         echo $message . "\n";
     }
 }
